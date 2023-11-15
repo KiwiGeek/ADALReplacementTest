@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADALReplacementTest", "ADALReplacementTest.csproj", "{B41E5CED-FB8B-4D1D-88AC-72384DF5662C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41E5CED-FB8B-4D1D-88AC-72384DF5662C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41E5CED-FB8B-4D1D-88AC-72384DF5662C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41E5CED-FB8B-4D1D-88AC-72384DF5662C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41E5CED-FB8B-4D1D-88AC-72384DF5662C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C7ADE9-694C-4693-B5DA-807B907F356C}
+	EndGlobalSection
+EndGlobal
